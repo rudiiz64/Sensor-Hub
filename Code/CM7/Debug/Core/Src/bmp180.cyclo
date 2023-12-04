@@ -1,0 +1,6 @@
+../Core/Src/bmp180.c:18:6:bmp180_uTemp	1
+../Core/Src/bmp180.c:27:6:bmp180_calc_temp	1
+../Core/Src/bmp180.c:35:6:bmp180_get_upressure	5
+../Core/Src/bmp180.c:60:6:bmp180_calc_pressure	3
+../Core/Src/bmp180.c:84:6:bmp180_altitude	1
+../Core/Src/bmp180.c:89:6:read_calibration	1
